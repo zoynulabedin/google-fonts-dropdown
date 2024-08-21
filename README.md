@@ -19,25 +19,27 @@ To install the package, use npm or Yarn:
 npm i google-fonts-dropdown
 ```
 
-import React from 'react';
-import GoogleFontsDropdown from 'google-fonts-dropdown';
+```typescript
+import React from "react";
+import GoogleFontsDropdown from "google-fonts-dropdown";
 
 const MyComponent: React.FC = () => {
-const handleFontSelect = () => {
-console.log('Selected Font:', font);
-};
+  const handleFontSelect = () => {
+    console.log("Selected Font:", font);
+  };
 
-return (
-<form>
-<GoogleFontsDropdown
+  return (
+    <form>
+      <GoogleFontsDropdown
         apiKey="YOUR_GOOGLE_FONTS_API_KEY"
         name="font"
         title="select a font"
         onFontSelect={handleFontSelect}
       />
-<button type="submit">Submit</button>
-</form>
-);
+      <button type="submit">Submit</button>
+    </form>
+  );
 };
 
-export default MyComponent
+export default MyComponent;
+```
