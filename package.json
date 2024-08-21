@@ -1,6 +1,6 @@
 {
   "name": "google-fonts-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component for selecting Google Fonts, compatible with React, Next.js, and Remix.",
   "main": "dist/index.js",
   "scripts": {
