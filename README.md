@@ -4,18 +4,17 @@
 [![License](https://img.shields.io/npm/l/google-fonts-dropdown.svg)](https://www.npmjs.com/package/google-fonts-dropdown)
 [![Downloads](https://img.shields.io/npm/dt/google-fonts-dropdown.svg)](https://www.npmjs.com/package/google-fonts-dropdown)
 
-**MyPackage** is a simple yet powerful npm package that helps you [briefly describe the purpose of your package here].
+** Google Fonts Dropdown ** A simple React component for selecting Google Fonts, compatible with React, Next.js, and Remix.
 
 ## Features
 
-- **Feature 1**: Describe the first key feature of your package.
-- **Feature 2**: Explain the second feature.
-- **Feature 3**: Highlight the third feature, if any.
+- **Feature 1**: Dropdown to select Google Fonts.
+- **Feature 2**: tailwind support.
 
 ## Installation
 
 To install the package, use npm or Yarn:
 
 ```bash
-npm install mypackage
+npm i google-fonts-dropdown
 ```
