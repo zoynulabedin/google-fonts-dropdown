@@ -1,6 +1,6 @@
 {
   "name": "google-fonts-dropdown",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A React component for selecting Google Fonts, compatible with React, Next.js, and Remix.",
   "main": "dist/index.js",
   "scripts": {
@@ -18,8 +18,16 @@
     "rollup": "^2.56.3",
     "rollup-plugin-babel": "^4.4.0"
   },
+  "keywords": [
+    "google-fonts-dropdown",
+    "google-fonts",
+    "react",
+    "remix",
+    "javascript"
+  ],
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
-  }
+  },
+  "homepage": "https://github.com/zoynulabedin/google-fonts-dropdown"
 }
