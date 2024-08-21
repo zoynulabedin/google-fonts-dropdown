@@ -1,8 +1,8 @@
-# MyPackage
+## Google Fonts Dropdown
 
-[![npm version](https://badge.fury.io/js/mypackage.svg)](https://badge.fury.io/js/mypackage)
-[![License](https://img.shields.io/npm/l/mypackage.svg)](https://www.npmjs.com/package/mypackage)
-[![Downloads](https://img.shields.io/npm/dt/mypackage.svg)](https://www.npmjs.com/package/mypackage)
+[![npm version](https://badge.fury.io/js/google-fonts-dropdown.svg)](https://badge.fury.io/js/google-fonts-dropdown.svg)
+[![License](https://img.shields.io/npm/l/google-fonts-dropdown.svg)](https://www.npmjs.com/package/google-fonts-dropdown)
+[![Downloads](https://img.shields.io/npm/dt/google-fonts-dropdown.svg)](https://www.npmjs.com/package/google-fonts-dropdown)
 
 **MyPackage** is a simple yet powerful npm package that helps you [briefly describe the purpose of your package here].
 
