@@ -30,7 +30,12 @@ const GoogleFontsDropdown = ({ apiKey, onFontSelect, name, title }) => {
 
   return (
     <div>
-      <select name={name} value={selectedFont} onChange={handleFontChange}>
+      <select
+        className={`${className}`}
+        name={name}
+        value={selectedFont}
+        onChange={handleFontChange}
+      >
         <option value="">{title}</option>
         {fonts.map((font) => (
           <option key={font.family} value={font.family}>
