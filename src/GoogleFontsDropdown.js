@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from "react";
 
-const GoogleFontsDropdown = ({ apiKey, onFontSelect, name, title }) => {
+const GoogleFontsDropdown = ({
+  apiKey,
+  onFontSelect,
+  name,
+  title,
+  className,
+}) => {
   const [fonts, setFonts] = useState([]);
   const [selectedFont, setSelectedFont] = useState("");
 

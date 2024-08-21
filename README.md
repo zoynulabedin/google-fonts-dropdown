@@ -32,6 +32,7 @@ const MyComponent: React.FC = () => {
     <form>
       <GoogleFontsDropdown
         apiKey="YOUR_GOOGLE_FONTS_API_KEY"
+        className=""
         name="font"
         title="select a font"
         onFontSelect={handleFontSelect}
